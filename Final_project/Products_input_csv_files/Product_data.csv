@@ -1,0 +1,1001 @@
+product_id,product_category,product_name,product_unit_price
+1,FROZEN,Soup - Base Broth Beef,8.74
+2,Home Goods,Beef - Short Loin,21.13
+3,FRUITS,Juice - Prune,19.45
+4,FRUITS,"Beef - Cooked, Corned",12.60
+5,Kitchen,V8 Splash Strawberry Banana,21.10
+6,Kitchen,"Rosemary - Primerba, Paste",22.07
+7,OFFICE SUPPLIES,"Olives - Green, Pitted",41.86
+8,Home Goods,"Schnappes - Peach, Walkers",13.44
+9,FRUITS,Soup - Campbells Asian Noodle,3.19
+10,OFFICE SUPPLIES,Alize Red Passion,5.79
+11,Home Goods,"Wine - White, Pelee Island",10.50
+12,OFFICE SUPPLIES,Soup - French Can Pea,48.54
+13,Kitchen,Sobe - Green Tea,49.00
+14,Home Goods,"Beans - Black Bean, Preserved",46.53
+15,FROZEN,Bar - Granola Trail Mix Fruit Nut,12.61
+16,FRUITS,Quail - Jumbo Boneless,21.44
+17,Home Goods,Truffle Paste,41.72
+18,Kitchen,Honey - Lavender,43.08
+19,Home Goods,Cranberries - Frozen,0.92
+20,FRUITS,"Pepper - Red, Finger Hot",27.45
+21,Home Goods,Fudge - Cream Fudge,26.48
+22,Kitchen,Tea - Mint,17.55
+23,OFFICE SUPPLIES,Tomato - Tricolor Cherry,5.35
+24,Home Goods,"Jam - Marmalade, Orange",26.06
+25,Kitchen,Puree - Mango,2.43
+26,FRUITS,Napkin Colour,44.29
+27,FRUITS,"Vermouth - White, Cinzano",13.17
+28,Kitchen,Chip - Potato Dill Pickle,22.36
+29,FROZEN,Samosa - Veg,6.14
+30,FRUITS,Sugar - Crumb,48.21
+31,FROZEN,Leeks - Large,5.63
+32,Home Goods,Puree - Kiwi,45.41
+33,Home Goods,Pie Shell,15.23
+34,FROZEN,Coffee - Almond Amaretto,23.15
+35,Home Goods,"Pepper - Black, Whole",22.14
+36,FROZEN,Container Clear 8 Oz,14.94
+37,Kitchen,Beer - Blue,38.93
+38,FROZEN,Carrots - Jumbo,16.27
+39,FRUITS,Scallop - St. Jaques,44.30
+40,OFFICE SUPPLIES,Wine - Barossa Valley Estate,9.68
+41,FRUITS,Squeeze Bottle,9.94
+42,FRUITS,Venison - Striploin,41.79
+43,FROZEN,Cabbage - Red,21.57
+44,Kitchen,Rambutan,8.48
+45,OFFICE SUPPLIES,Rolled Oats,13.47
+46,FRUITS,Spice - Paprika,25.75
+47,OFFICE SUPPLIES,"Wine - White, Cooking",28.78
+48,FRUITS,Lettuce - Lambs Mash,13.74
+49,FRUITS,"Beef - Kindney, Whole",33.12
+50,Kitchen,Extract - Almond,2.73
+51,Home Goods,Lemon Pepper,0.07
+52,Kitchen,"Wine - White, Ej",37.22
+53,OFFICE SUPPLIES,Wine - Lamancha Do Crianza,46.58
+54,FRUITS,"Fish - Scallops, Cold Smoked",13.96
+55,OFFICE SUPPLIES,Muffin Mix - Blueberry,22.74
+56,OFFICE SUPPLIES,Melon - Honey Dew,41.63
+57,Kitchen,Bread - English Muffin,29.50
+58,FRUITS,"Peas - Pigeon, Dry",36.37
+59,OFFICE SUPPLIES,Halibut - Steaks,45.34
+60,Kitchen,"Turkey - Breast, Boneless Sk On",11.61
+61,OFFICE SUPPLIES,Pork - Shoulder,0.12
+62,Home Goods,Tea - Camomele,39.87
+63,FROZEN,Chicken - Bones,43.35
+64,FRUITS,"Wine - Red, Mouton Cadet",40.96
+65,FRUITS,"Soup - Knorr, Classic Can. Chili",42.56
+66,Kitchen,Tamarind Paste,49.39
+67,FRUITS,Hummus - Spread,3.23
+68,Kitchen,Quail Eggs - Canned,36.18
+69,FRUITS,Sauce - Oyster,37.04
+70,Home Goods,Dc - Frozen Momji,19.81
+71,FRUITS,Temperature Recording Station,41.69
+72,FROZEN,Port - 74 Brights,34.96
+73,OFFICE SUPPLIES,Dried Peach,13.74
+74,OFFICE SUPPLIES,Dasheen,38.35
+75,Kitchen,"Beef - Rib Roast, Cap On",14.65
+76,Home Goods,Scallops 60/80 Iqf,28.76
+77,Home Goods,Soup Campbells,43.04
+78,OFFICE SUPPLIES,Pastry - Baked Cinnamon Stick,44.88
+79,FROZEN,Wine - Jafflin Bourgongone,12.37
+80,FRUITS,Table Cloth 54x72 Colour,28.72
+81,OFFICE SUPPLIES,Shopper Bag - S - 4,20.24
+82,FRUITS,Sword Pick Asst,20.01
+83,Kitchen,Pears - Bartlett,31.63
+84,OFFICE SUPPLIES,Petite Baguette,20.31
+85,FROZEN,Chickensplit Half,28.74
+86,Kitchen,Tamarind Paste,25.88
+87,Home Goods,Bread - Sour Batard,49.33
+88,FRUITS,Syrup - Pancake,10.90
+89,Kitchen,Cheese - Marble,44.20
+90,FROZEN,Silicone Paper 16.5x24,26.57
+91,FROZEN,Wine - Pinot Grigio Collavini,10.04
+92,OFFICE SUPPLIES,"Chocolate - Milk, Callets",26.66
+93,Kitchen,Cumin - Ground,3.54
+94,FRUITS,Muffin Batt - Ban Dream Zero,23.84
+95,FRUITS,Bay Leaf,11.44
+96,Home Goods,Pear - Packum,47.18
+97,Home Goods,Flour - So Mix Cake White,46.65
+98,Home Goods,Wine - Casillero Del Diablo,20.04
+99,Kitchen,Beef - Top Sirloin,14.20
+100,OFFICE SUPPLIES,Bulgar,48.83
+101,Home Goods,Beef - Top Sirloin,20.43
+102,OFFICE SUPPLIES,Scampi Tail,48.01
+103,Home Goods,"Veal - Inside, Choice",29.96
+104,FROZEN,"Nut - Peanut, Roasted",37.97
+105,FRUITS,"Lobster - Tail, 3 - 4 Oz",47.61
+106,OFFICE SUPPLIES,Beans - Fine,19.61
+107,Home Goods,V8 Pet,45.91
+108,FRUITS,Bag Stand,11.09
+109,Kitchen,Parsnip,41.65
+110,FROZEN,"Beans - Kidney, Red Dry",3.92
+111,Home Goods,Oil - Grapeseed Oil,4.75
+112,Kitchen,Dragon Fruit,43.86
+113,Home Goods,Oil - Macadamia,13.95
+114,Home Goods,"Soup - Beef Conomme, Dry",1.68
+115,FROZEN,Sausage - Breakfast,49.98
+116,FROZEN,Pepper - Sorrano,25.61
+117,FRUITS,Beef Striploin Aaa,25.18
+118,OFFICE SUPPLIES,Onions - Spanish,13.42
+119,FROZEN,Nougat - Paste / Cream,49.61
+120,FRUITS,Crackers - Water,2.51
+121,Home Goods,Bread Base - Italian,36.05
+122,FROZEN,Ham Black Forest,5.04
+123,FRUITS,Nantuket Peach Orange,8.07
+124,FRUITS,Garbage Bag - Clear,41.16
+125,OFFICE SUPPLIES,Leeks - Large,11.56
+126,OFFICE SUPPLIES,"Beef - Bones, Cut - Up",18.98
+127,OFFICE SUPPLIES,Passion Fruit,24.37
+128,FROZEN,Sauce Bbq Smokey,6.40
+129,Home Goods,Wine - Cave Springs Dry Riesling,30.77
+130,OFFICE SUPPLIES,"Lemonade - Strawberry, 591 Ml",42.17
+131,Kitchen,Coffee Cup 12oz 5342cd,3.59
+132,OFFICE SUPPLIES,Tea - Black Currant,42.05
+133,FRUITS,"Crab - Blue, Frozen",23.67
+134,OFFICE SUPPLIES,Beer - Heinekin,2.06
+135,OFFICE SUPPLIES,"Cherries - Bing, Canned",1.94
+136,Home Goods,Ham - Cooked Bayonne Tinned,12.07
+137,FROZEN,Salmon Atl.whole 8 - 10 Lb,14.53
+138,FROZEN,Bar Mix - Lemon,15.22
+139,FRUITS,Capicola - Hot,33.02
+140,Home Goods,"Beef - Rib Roast, Capless",12.13
+141,Home Goods,Tofu - Soft,46.11
+142,FRUITS,Juice - Cranberry 284ml,35.90
+143,FROZEN,Soap - Hand Soap,13.24
+144,Kitchen,"Water, Tap",9.53
+145,OFFICE SUPPLIES,Wine - Segura Viudas Aria Brut,27.50
+146,Home Goods,Beer - Mill St Organic,10.03
+147,FROZEN,Almonds Ground Blanched,35.94
+148,OFFICE SUPPLIES,Browning Caramel Glace,26.87
+149,FROZEN,"Wine - Red, Pinot Noir, Chateau",36.62
+150,Home Goods,Aspic - Clear,29.79
+151,Home Goods,Beef - Texas Style Burger,1.41
+152,FROZEN,Hersey Shakes,6.87
+153,Home Goods,Horseradish - Prepared,24.32
+154,FROZEN,"Stock - Chicken, White",14.73
+155,Kitchen,Butter Sweet,15.58
+156,FRUITS,Puree - Pear,47.86
+157,FRUITS,Sobe - Green Tea,25.41
+158,Kitchen,Shiratamako - Rice Flour,43.76
+159,Home Goods,"Soup - Campbells, Classic Chix",28.72
+160,FRUITS,Cleaner - Comet,30.56
+161,FROZEN,Cake - Lemon Chiffon,8.84
+162,OFFICE SUPPLIES,Nantucket Cranberry Juice,27.77
+163,Kitchen,Taro Leaves,44.91
+164,FROZEN,Lamb - Loin Chops,19.92
+165,FROZEN,"Plate - Foam, Bread And Butter",3.54
+166,Home Goods,Pork Loin Bine - In Frenched,21.03
+167,Home Goods,Rice - Brown,32.74
+168,OFFICE SUPPLIES,Tahini Paste,34.93
+169,OFFICE SUPPLIES,Carroway Seed,22.15
+170,FROZEN,Appetizer - Asian Shrimp Roll,10.47
+171,Home Goods,"Cheese - Mozzarella, Buffalo",36.99
+172,FRUITS,Pork - Smoked Back Bacon,39.41
+173,OFFICE SUPPLIES,Oven Mitt - 13 Inch,10.59
+174,OFFICE SUPPLIES,Pork - Back Ribs,10.46
+175,FROZEN,Veal - Knuckle,16.09
+176,Kitchen,Wine - Redchard Merritt,10.87
+177,Kitchen,Cake - French Pear Tart,22.57
+178,FROZEN,Beer - Rickards Red,47.76
+179,Home Goods,Jack Daniels,10.07
+180,Kitchen,Wine - Barbera Alba Doc 2001,26.63
+181,OFFICE SUPPLIES,"Pasta - Fett Alfredo, Single Serve",45.12
+182,FROZEN,Truffle - Whole Black Peeled,47.86
+183,FROZEN,Chocolate - Mi - Amere Semi,32.94
+184,Home Goods,"Nut - Almond, Blanched, Sliced",3.29
+185,OFFICE SUPPLIES,Cheese - Comte,33.74
+186,FROZEN,Lid Tray - 12in Dome,22.30
+187,Home Goods,Milk - 2%,28.15
+188,Home Goods,White Fish - Filets,9.65
+189,OFFICE SUPPLIES,Table Cloth 62x114 Colour,16.73
+190,FROZEN,"Nut - Cashews, Whole, Raw",44.51
+191,FROZEN,Sugar - Brown,29.32
+192,Kitchen,Sauce - Caesar Dressing,10.73
+193,FROZEN,"Yogurt - Blueberry, 175 Gr",21.59
+194,Home Goods,Sprouts - Baby Pea Tendrils,9.43
+195,Home Goods,Lamb Rack - Ontario,22.52
+196,Home Goods,Sauce - Hp,14.92
+197,Kitchen,Sauce - Oyster,39.41
+198,FROZEN,Pastry - Butterscotch Baked,33.47
+199,Kitchen,Muffin Hinge - 211n,27.08
+200,Kitchen,Thermometer Digital,43.87
+201,Kitchen,Hersey Shakes,32.52
+202,FRUITS,Trueblue - Blueberry,39.84
+203,Kitchen,Wine - Vovray Sec Domaine Huet,4.15
+204,Kitchen,Pork - Ground,16.08
+205,Kitchen,Pork - Bacon Cooked Slcd,0.20
+206,FRUITS,Bread - Corn Muffaleta Onion,20.11
+207,FROZEN,"Orange - Canned, Mandarin",20.60
+208,FROZEN,Salt - Kosher,38.41
+209,Home Goods,Bread - Pita,32.08
+210,OFFICE SUPPLIES,Apple - Granny Smith,47.49
+211,OFFICE SUPPLIES,"Soup - Beef Conomme, Dry",14.47
+212,FROZEN,"Pepper - Black, Ground",13.20
+213,Kitchen,Mangoes,48.58
+214,FROZEN,Wine - Champagne Brut Veuve,26.40
+215,OFFICE SUPPLIES,Sauce - Hp,2.66
+216,Home Goods,Wine - Wyndham Estate Bin 777,15.14
+217,OFFICE SUPPLIES,Lettuce - Sea / Sea Asparagus,22.09
+218,Kitchen,Pastry - Choclate Baked,20.52
+219,FRUITS,Table Cloth 72x144 White,8.71
+220,FROZEN,Sponge Cake Mix - Chocolate,31.14
+221,FROZEN,Sprouts Dikon,24.15
+222,FROZEN,Cheese - Parmigiano Reggiano,13.30
+223,OFFICE SUPPLIES,Chocolate Eclairs,8.03
+224,FRUITS,Mushroom - Chanterelle Frozen,18.87
+225,OFFICE SUPPLIES,Turkey - Ground. Lean,44.67
+226,Kitchen,"Wine - White, French Cross",24.37
+227,OFFICE SUPPLIES,Yogurt - French Vanilla,0.25
+228,FRUITS,Nescafe - Frothy French Vanilla,41.53
+229,FROZEN,"Wine - Niagara,vqa Reisling",43.15
+230,FROZEN,Coffee - Ristretto Coffee Capsule,41.13
+231,Home Goods,Bag Clear 10 Lb,24.82
+232,Kitchen,Soupfoamcont12oz 112con,3.09
+233,Home Goods,Basil - Pesto Sauce,15.33
+234,FRUITS,Spinach - Frozen,10.77
+235,Home Goods,Oil - Coconut,33.40
+236,FRUITS,French Pastry - Mini Chocolate,12.74
+237,FROZEN,Apple - Macintosh,16.39
+238,OFFICE SUPPLIES,Mountain Dew,46.98
+239,FROZEN,Kaffir Lime Leaves,7.79
+240,OFFICE SUPPLIES,Appetizer - Chicken Satay,46.87
+241,FRUITS,Sauce - Hp,38.51
+242,OFFICE SUPPLIES,Oil - Olive,21.21
+243,OFFICE SUPPLIES,"Yogurt - Blueberry, 175 Gr",4.11
+244,OFFICE SUPPLIES,Lettuce - Iceberg,46.51
+245,Home Goods,Almonds Ground Blanched,16.57
+246,Home Goods,Pie Filling - Pumpkin,31.85
+247,Home Goods,Scallop - St. Jaques,5.20
+248,Home Goods,"Wine - Red, Antinori Santa",23.73
+249,Kitchen,"Yogurt - Cherry, 175 Gr",25.50
+250,FROZEN,"Cheese - Cheddar, Mild",28.78
+251,Home Goods,Appetizer - Crab And Brie,36.70
+252,FROZEN,Oysters - Smoked,44.94
+253,FRUITS,Longos - Greek Salad,42.13
+254,FRUITS,Myers Planters Punch,46.80
+255,Home Goods,Mayonnaise,4.68
+256,Kitchen,Cauliflower,39.72
+257,OFFICE SUPPLIES,Veal - Provimi Inside,45.28
+258,Home Goods,Lidsoupcont Rp12dn,45.14
+259,OFFICE SUPPLIES,Wine - Magnotta - Belpaese,46.86
+260,FROZEN,Taro Root,19.19
+261,Home Goods,Rhubarb,32.49
+262,Kitchen,Capers - Ox Eye Daisy,30.96
+263,Kitchen,Fond - Neutral,39.44
+264,FRUITS,Sherbet - Raspberry,49.94
+265,Home Goods,Dikon,32.09
+266,OFFICE SUPPLIES,Chocolate - Chips Compound,14.67
+267,Kitchen,Quiche Assorted,48.91
+268,FRUITS,"Pasta - Cannelloni, Sheets, Fresh",27.34
+269,FROZEN,Lobster - Canned Premium,34.05
+270,OFFICE SUPPLIES,Bread - Assorted Rolls,21.97
+271,Home Goods,"Juice - Clamato, 341 Ml",18.69
+272,FRUITS,Sauce - Sesame Thai Dressing,43.06
+273,OFFICE SUPPLIES,"Pail - 4l White, With Handle",39.58
+274,FRUITS,Longos - Burritos,2.40
+275,FROZEN,Cheese - Mozzarella,32.05
+276,FRUITS,"Juice - Pineapple, 48 Oz",0.49
+277,Home Goods,Chocolate - Feathers,28.07
+278,FRUITS,Pastry - Apple Muffins - Mini,38.18
+279,Home Goods,Taro Leaves,14.26
+280,OFFICE SUPPLIES,Jolt Cola - Electric Blue,24.05
+281,Kitchen,Wine - Magnotta - Cab Sauv,46.93
+282,Kitchen,"Lemonade - Natural, 591 Ml",1.61
+283,Home Goods,Shrimp - Black Tiger 6 - 8,32.86
+284,FRUITS,Wine - Hardys Bankside Shiraz,1.14
+285,FROZEN,Squid - U 5,41.43
+286,FRUITS,Veal - Liver,12.61
+287,OFFICE SUPPLIES,Cake - Pancake,2.38
+288,Kitchen,Nut - Macadamia,33.40
+289,Kitchen,"Napkin - Beverge, White 2 - Ply",46.24
+290,Home Goods,Buffalo - Striploin,41.25
+291,FRUITS,The Pop Shoppe - Root Beer,19.08
+292,Kitchen,Egg Patty Fried,11.12
+293,OFFICE SUPPLIES,Chervil - Fresh,4.77
+294,FRUITS,Mix - Cocktail Ice Cream,7.83
+295,OFFICE SUPPLIES,Chips - Doritos,13.71
+296,FRUITS,Nantucket - Pomegranate Pear,5.68
+297,OFFICE SUPPLIES,Cut Wakame - Hanawakaba,12.08
+298,FROZEN,Sauce - Demi Glace,6.89
+299,Kitchen,Lamb Rack - Ontario,29.10
+300,FROZEN,Wine - Zinfandel Rosenblum,30.79
+301,FROZEN,Calypso - Lemonade,33.21
+302,FROZEN,Savory,6.37
+303,FROZEN,Chicken - Tenderloin,9.79
+304,FROZEN,"Rum - White, Gg White",36.51
+305,OFFICE SUPPLIES,Juice - Prune,1.57
+306,FRUITS,"Oil - Food, Lacquer Spray",39.92
+307,OFFICE SUPPLIES,Waffle Stix,13.57
+308,Home Goods,Sauce - Hoisin,19.33
+309,Home Goods,Bread - English Muffin,33.67
+310,Home Goods,Hot Choc Vending,12.63
+311,FROZEN,Steam Pan - Half Size Deep,31.24
+312,Home Goods,"Nut - Almond, Blanched, Whole",20.10
+313,Home Goods,Cake Slab,26.85
+314,Home Goods,Sauce - Ranch Dressing,9.68
+315,FRUITS,Food Colouring - Pink,44.45
+316,OFFICE SUPPLIES,"Wine - Magnotta, White",37.41
+317,Kitchen,Cookies - Amaretto,48.02
+318,OFFICE SUPPLIES,Wine - Semi Dry Riesling Vineland,11.80
+319,FROZEN,Shopper Bag - S - 4,5.10
+320,FROZEN,"Jam - Raspberry,jar",33.96
+321,Kitchen,Rice - Brown,10.27
+322,FROZEN,Cherries - Fresh,0.86
+323,OFFICE SUPPLIES,Cheese Cloth,33.37
+324,OFFICE SUPPLIES,Myers Planters Punch,36.90
+325,FRUITS,Cup - Paper 10oz 92959,49.19
+326,Home Goods,Nantucket - 518ml,34.68
+327,Kitchen,"Wine - White, Ej Gallo",32.70
+328,Kitchen,Water - Tonic,36.99
+329,Kitchen,Milk - Condensed,20.85
+330,FRUITS,Cheese - Colby,20.22
+331,OFFICE SUPPLIES,Sherbet - Raspberry,40.06
+332,Home Goods,"Mushroom - Trumpet, Dry",25.11
+333,Kitchen,Filter - Coffee,45.75
+334,FROZEN,Vegetable - Base,9.51
+335,FRUITS,Cheese - St. Andre,41.93
+336,Kitchen,Cake - Cake Sheet Macaroon,3.38
+337,Home Goods,Parsley - Fresh,29.87
+338,FRUITS,"Beans - Navy, Dry",29.00
+339,FRUITS,Yoplait - Strawbrasp Peac,33.11
+340,Kitchen,Sprouts - Brussel,35.09
+341,OFFICE SUPPLIES,"Coke - Diet, 355 Ml",21.41
+342,FROZEN,Red Currant Jelly,16.93
+343,FRUITS,Dill Weed - Fresh,45.34
+344,Kitchen,Beef - Short Ribs,18.27
+345,OFFICE SUPPLIES,Wine - Magnotta - Cab Sauv,44.45
+346,Kitchen,"Juice - V8, Tomato",49.37
+347,FRUITS,Potatoes - Idaho 80 Count,27.48
+348,FRUITS,"Artichokes - Knobless, White",21.82
+349,Kitchen,Zucchini - Green,4.68
+350,OFFICE SUPPLIES,"Mushroom - Enoki, Fresh",35.77
+351,FRUITS,Grapefruit - Pink,2.38
+352,Home Goods,Bag Stand,42.95
+353,FRUITS,Wine - Cotes Du Rhone,26.15
+354,FRUITS,Caviar - Salmon,35.65
+355,Kitchen,Lettuce - Boston Bib - Organic,11.36
+356,Home Goods,Blackberries,37.63
+357,Kitchen,Cocoa Powder - Natural,36.55
+358,FRUITS,Cake - Box Window 10x10x2.5,31.54
+359,FRUITS,Cheese Cloth,41.28
+360,Home Goods,Bread - 10 Grain,39.44
+361,OFFICE SUPPLIES,Neckerchief Blck,22.43
+362,OFFICE SUPPLIES,"Pepper - Green, Chili",23.30
+363,OFFICE SUPPLIES,Soap - Hand Soap,23.60
+364,Home Goods,"Pork - Loin, Boneless",35.58
+365,FROZEN,Butter - Unsalted,1.49
+366,FRUITS,"Peas - Pigeon, Dry",5.79
+367,FRUITS,"Doilies - 5, Paper",34.43
+368,OFFICE SUPPLIES,Island Oasis - Raspberry,16.34
+369,Kitchen,Nantucket Apple Juice,4.02
+370,FRUITS,Ham - Procutinni,30.75
+371,FROZEN,V8 - Vegetable Cocktail,47.70
+372,OFFICE SUPPLIES,"Beef - Ground, Extra Lean, Fresh",9.52
+373,FROZEN,"Pasta - Gnocchi, Potato",20.30
+374,OFFICE SUPPLIES,Bread - Pain Au Liat X12,22.35
+375,OFFICE SUPPLIES,Mix Pina Colada,7.00
+376,OFFICE SUPPLIES,Tea - Orange Pekoe,24.94
+377,Kitchen,"Jam - Raspberry,jar",36.61
+378,FRUITS,Lobak,20.27
+379,Kitchen,Pepper - Roasted Red,33.08
+380,Home Goods,"Coffee - Beans, Whole",27.90
+381,FROZEN,Tea - Vanilla Chai,27.55
+382,Home Goods,"Napkin - Beverge, White 2 - Ply",15.21
+383,Home Goods,Bar Nature Valley,19.30
+384,FRUITS,Flour - So Mix Cake White,35.97
+385,Home Goods,Appetizer - Veg Assortment,28.50
+386,FROZEN,"Coffee - Beans, Whole",31.64
+387,FRUITS,Wine - Pinot Noir Pond Haddock,48.46
+388,Kitchen,Tea - Herbal I Love Lemon,41.99
+389,FROZEN,Bols Melon Liqueur,28.72
+390,FROZEN,Corn - On The Cob,17.32
+391,OFFICE SUPPLIES,Green Scrubbie Pad H.duty,2.00
+392,FROZEN,Tea - English Breakfast,13.39
+393,Home Goods,Bar - Granola Trail Mix Fruit Nut,15.66
+394,Kitchen,Nantucket Pine Orangebanana,16.15
+395,Home Goods,"Beans - Long, Chinese",13.47
+396,Kitchen,Salad Dressing,37.81
+397,Home Goods,Red Currants,5.05
+398,FRUITS,Quiche Assorted,40.89
+399,FROZEN,Bread Sour Rolls,27.88
+400,Home Goods,Raspberries - Fresh,27.35
+401,FRUITS,Aspic - Amber,12.28
+402,Home Goods,Celery,22.79
+403,OFFICE SUPPLIES,Lime Cordial - Roses,28.28
+404,FROZEN,"Shrimp - 16/20, Peeled Deviened",15.61
+405,FRUITS,Curry Powder,49.54
+406,FROZEN,Wine - Lou Black Shiraz,6.55
+407,Kitchen,English Muffin,28.76
+408,Home Goods,"Lamb - Whole Head Off,nz",35.40
+409,FROZEN,Towel Dispenser,5.74
+410,Kitchen,Jam - Apricot,5.65
+411,Kitchen,Sprouts - Bean,43.47
+412,Home Goods,Rappini - Andy Boy,27.64
+413,Kitchen,"Cod - Salted, Boneless",40.00
+414,Home Goods,Wine - Gato Negro Cabernet,25.65
+415,OFFICE SUPPLIES,Wine - Guy Sage Touraine,37.48
+416,Home Goods,"Chilli Paste, Hot Sambal Oelek",20.81
+417,FRUITS,Extract - Almond,43.30
+418,FRUITS,Wine - Chardonnay South,18.67
+419,FRUITS,Crab - Soft Shell,36.36
+420,FRUITS,"Cheese - Romano, Grated",34.40
+421,Home Goods,Beef - Diced,4.56
+422,FRUITS,Temperature Recording Station,16.18
+423,FRUITS,Vinegar - Champagne,39.25
+424,Home Goods,Beef - Top Sirloin,24.09
+425,Kitchen,Bagel - Everything,0.16
+426,Home Goods,"Nut - Chestnuts, Whole",12.42
+427,Kitchen,Beer - Moosehead,23.58
+428,Home Goods,Water - San Pellegrino,15.19
+429,FROZEN,Lobster - Canned Premium,8.57
+430,Kitchen,"Bread - Sticks, Thin, Plain",25.95
+431,FROZEN,Compound - Rum,2.00
+432,Kitchen,Scallops - In Shell,21.35
+433,OFFICE SUPPLIES,Juice - Lemon,20.31
+434,Kitchen,Muffin Mix - Corn Harvest,1.81
+435,Home Goods,Cheese - Cheddarsliced,36.69
+436,FRUITS,Chicken - Ground,48.86
+437,FRUITS,Lamb - Loin Chops,23.27
+438,Home Goods,Island Oasis - Lemonade,1.34
+439,Home Goods,Bagel - 12 Grain Preslice,37.08
+440,FROZEN,Veal - Kidney,6.82
+441,FRUITS,Rice - Long Grain,35.99
+442,Home Goods,Oven Mitt - 13 Inch,49.41
+443,Kitchen,"Yogurt - Peach, 175 Gr",42.07
+444,FROZEN,"Pork - Loin, Boneless",7.22
+445,Home Goods,"Pork - Sausage, Medium",8.19
+446,Kitchen,Shopper Bag - S - 4,33.94
+447,FRUITS,Cheese - Roquefort Pappillon,7.72
+448,FRUITS,Tea - Vanilla Chai,43.97
+449,FRUITS,Bacardi Breezer - Tropical,41.36
+450,OFFICE SUPPLIES,"Pepper - Paprika, Spanish",37.31
+451,Kitchen,Olives - Nicoise,33.36
+452,FROZEN,Cheese - Grie Des Champ,14.19
+453,FRUITS,Lobak,35.38
+454,FRUITS,"Flour - Bran, Red",49.69
+455,Kitchen,"Rum - Cream, Amarula",35.40
+456,Home Goods,Thyme - Dried,14.61
+457,Kitchen,Juice - Lime,24.36
+458,FROZEN,"Beef - Roasted, Cooked",44.67
+459,Home Goods,Tequila - Sauza Silver,45.07
+460,FRUITS,Crab Brie In Phyllo,20.63
+461,FROZEN,Chivas Regal - 12 Year Old,45.39
+462,OFFICE SUPPLIES,"Fish - Atlantic Salmon, Cold",49.54
+463,Home Goods,"Arctic Char - Fresh, Whole",43.83
+464,FRUITS,"Nut - Pecan, Halves",2.24
+465,Home Goods,Hagen Daza - Dk Choocolate,9.62
+466,FROZEN,Tea - Earl Grey,16.28
+467,FRUITS,Ecolab - Solid Fusion,31.94
+468,Kitchen,Salt - Kosher,13.67
+469,FRUITS,Oil - Safflower,39.24
+470,Kitchen,"Lid - Translucent, 3.5 And 6 Oz",24.55
+471,OFFICE SUPPLIES,Cheese - Montery Jack,23.78
+472,FRUITS,Water - Spring Water 500ml,16.50
+473,OFFICE SUPPLIES,Tahini Paste,10.93
+474,Home Goods,Pears - Bartlett,39.33
+475,FROZEN,"Carrots - Purple, Organic",20.91
+476,Home Goods,"Rum - Dark, Bacardi, Black",11.09
+477,Kitchen,Aromat Spice / Seasoning,34.02
+478,FRUITS,Food Colouring - Orange,46.38
+479,FROZEN,"Roe - Lump Fish, Black",0.33
+480,Kitchen,Beef - Top Butt,40.50
+481,Kitchen,Water Chestnut - Canned,16.32
+482,OFFICE SUPPLIES,Triple Sec - Mcguinness,14.52
+483,Home Goods,"Tart Shells - Sweet, 3",11.59
+484,FRUITS,Bread - Petit Baguette,34.80
+485,OFFICE SUPPLIES,Chick Peas - Canned,49.41
+486,Home Goods,Wine - Vineland Estate Semi - Dry,7.11
+487,FRUITS,"Pork - Loin, Center Cut",16.35
+488,FRUITS,Chicken - Leg / Back Attach,39.04
+489,Home Goods,Beer - Steamwhistle,21.95
+490,OFFICE SUPPLIES,Wine - Valpolicella Masi,49.81
+491,Kitchen,Beer - Heinekin,49.32
+492,Kitchen,Coffee - 10oz Cup 92961,13.20
+493,FRUITS,"Pork - Sausage, Medium",16.95
+494,FRUITS,Pizza Pizza Dough,16.90
+495,OFFICE SUPPLIES,Salmon - Sockeye Raw,16.66
+496,FROZEN,Rolled Oats,18.31
+497,FROZEN,Pepper Squash,20.23
+498,FROZEN,Wasabi Powder,25.24
+499,Home Goods,"Juice - Clam, 46 Oz",9.43
+500,FROZEN,Bread - Corn Muffaleta Onion,16.28
+501,Kitchen,Rice - Jasmine Sented,27.52
+502,FRUITS,"Cheese - Boursin, Garlic / Herbs",41.84
+503,Kitchen,Soup - Cream Of Broccoli,23.68
+504,FRUITS,Tarragon - Fresh,29.60
+505,Kitchen,Beef - Top Butt,23.15
+506,FRUITS,Monkfish Fresh - Skin Off,43.43
+507,Kitchen,Wine - Zonnebloem Pinotage,41.51
+508,Home Goods,Cleaner - Comet,22.21
+509,OFFICE SUPPLIES,Soup Campbells Split Pea And Ham,32.68
+510,Home Goods,Sausage - Chorizo,48.47
+511,FROZEN,Chick Peas - Dried,12.19
+512,OFFICE SUPPLIES,Bagelers - Cinn / Brown,21.17
+513,Kitchen,Anchovy Fillets,26.10
+514,Home Goods,Baking Powder,10.33
+515,FROZEN,"Cheese - Woolwich Goat, Log",46.42
+516,Kitchen,Goat - Whole Cut,7.42
+517,Home Goods,Ice Cream Bar - Rolo Cone,1.02
+518,Home Goods,"Rosemary - Primerba, Paste",29.48
+519,OFFICE SUPPLIES,Basil - Pesto Sauce,48.34
+520,FROZEN,Tarts Assorted,30.06
+521,Kitchen,Cabbage - Red,22.71
+522,OFFICE SUPPLIES,Cheese - Ricotta,12.22
+523,FRUITS,Walkers Special Old Whiskey,25.34
+524,OFFICE SUPPLIES,Cheese - Comte,41.49
+525,FROZEN,Steampan Lid,15.40
+526,OFFICE SUPPLIES,Beef - Tenderloin - Aa,42.05
+527,FRUITS,Grapes - Green,10.65
+528,OFFICE SUPPLIES,"Rum - Cream, Amarula",10.62
+529,FRUITS,Greens Mustard,49.35
+530,FRUITS,Clams - Bay,15.70
+531,FROZEN,Liners - Baking Cups,42.30
+532,OFFICE SUPPLIES,Soup Campbells,26.93
+533,Home Goods,V8 Splash Strawberry Kiwi,2.11
+534,FROZEN,Aromat Spice / Seasoning,17.07
+535,FRUITS,Black Currants,19.63
+536,Home Goods,Bread Country Roll,44.01
+537,FROZEN,Wine - Cave Springs Dry Riesling,1.42
+538,OFFICE SUPPLIES,Wine - Ice Wine,10.77
+539,FRUITS,Pomello,28.22
+540,Kitchen,Juice - Happy Planet,2.98
+541,OFFICE SUPPLIES,Olives - Stuffed,0.16
+542,Kitchen,Cake - Cake Sheet Macaroon,22.51
+543,OFFICE SUPPLIES,Cheese - Wine,18.71
+544,OFFICE SUPPLIES,Capon - Whole,34.10
+545,Kitchen,"Fish - Halibut, Cold Smoked",33.29
+546,Home Goods,Kahlua,21.07
+547,FROZEN,Juice - V8 Splash,45.24
+548,Kitchen,Steel Wool,3.56
+549,OFFICE SUPPLIES,Garbage Bags - Black,38.59
+550,OFFICE SUPPLIES,"Ranchero - Primerba, Paste",47.65
+551,Kitchen,Rootbeer,5.62
+552,FROZEN,Bamboo Shoots - Sliced,25.73
+553,Kitchen,Avocado,38.03
+554,FRUITS,"Wine - Red, Harrow Estates, Cab",18.74
+555,FRUITS,Beans - Fava Fresh,12.45
+556,Home Goods,Goat - Whole Cut,13.90
+557,FRUITS,Croissants Thaw And Serve,13.71
+558,Home Goods,V8 - Berry Blend,23.62
+559,FROZEN,Longos - Burritos,38.58
+560,FRUITS,Cranberry Foccacia,10.84
+561,FRUITS,"Loaf Pan - 2 Lb, Foil",25.50
+562,FROZEN,Chicken Giblets,36.52
+563,OFFICE SUPPLIES,Rolled Oats,32.07
+564,Home Goods,Shrimp - Tiger 21/25,29.41
+565,Home Goods,Wine - Segura Viudas Aria Brut,47.80
+566,FRUITS,"Wine - Magnotta - Red, Baco",5.60
+567,OFFICE SUPPLIES,Bread - Multigrain Oval,39.79
+568,Kitchen,Tomatoes - Hot House,8.89
+569,OFFICE SUPPLIES,Chickhen - Chicken Phyllo,16.62
+570,FROZEN,Wine - Two Oceans Sauvignon,13.36
+571,Home Goods,Cut Wakame - Hanawakaba,6.25
+572,Home Goods,"Vermouth - White, Cinzano",35.23
+573,OFFICE SUPPLIES,Lamb - Ground,14.64
+574,Home Goods,Eggplant Oriental,36.16
+575,OFFICE SUPPLIES,Capers - Ox Eye Daisy,29.47
+576,FRUITS,Langers - Cranberry Cocktail,10.66
+577,OFFICE SUPPLIES,"Mushrooms - Black, Dried",38.21
+578,FROZEN,Spice - Paprika,9.06
+579,OFFICE SUPPLIES,Celery,0.64
+580,OFFICE SUPPLIES,Bananas,7.14
+581,Home Goods,"Soup - French Onion, Dry",9.45
+582,FRUITS,Carbonated Water - Strawberry,33.39
+583,Kitchen,"Extract - Vanilla,artificial",34.42
+584,Kitchen,Mustard Prepared,37.81
+585,FROZEN,Wine - Maipo Valle Cabernet,28.90
+586,Home Goods,Monkfish - Fresh,14.27
+587,Kitchen,Bread - Corn Muffaletta,15.94
+588,Home Goods,Flavouring - Orange,17.67
+589,Home Goods,"Fish - Artic Char, Cold Smoked",39.40
+590,Kitchen,Honey - Liquid,37.89
+591,FRUITS,Beer - Sleemans Honey Brown,44.42
+592,Home Goods,"Hickory Smoke, Liquid",27.60
+593,Kitchen,Coffee - Dark Roast,44.03
+594,OFFICE SUPPLIES,"Olives - Black, Pitted",20.87
+595,Home Goods,Venison - Striploin,15.51
+596,FRUITS,Mustard - Individual Pkg,32.22
+597,FRUITS,Corn Shoots,32.12
+598,Kitchen,White Fish - Filets,47.67
+599,Home Goods,Butter Balls Salted,44.23
+600,FROZEN,Wine - Ruffino Chianti,41.50
+601,Home Goods,Wine - Cotes Du Rhone Parallele,27.36
+602,Home Goods,"Rum - White, Gg White",25.05
+603,FROZEN,Shrimp - 150 - 250,6.45
+604,FRUITS,Pears - Anjou,11.40
+605,Home Goods,Pork - European Side Bacon,37.30
+606,Home Goods,Garbage Bags - Clear,10.35
+607,OFFICE SUPPLIES,Beer - Sleemans Honey Brown,1.23
+608,Home Goods,Soup - Campbells Mac N Cheese,7.15
+609,OFFICE SUPPLIES,Coffee - Decafenated,45.13
+610,OFFICE SUPPLIES,Lidsoupcont Rp12dn,33.77
+611,FROZEN,Syrup - Kahlua Chocolate,44.36
+612,FROZEN,Lentils - Green Le Puy,40.24
+613,FROZEN,Tomatoes - Cherry,34.06
+614,FROZEN,Bread - English Muffin,0.37
+615,FRUITS,Beer - Moosehead,4.93
+616,OFFICE SUPPLIES,Ice Cream - Life Savers,22.45
+617,Kitchen,Cream - 35%,14.53
+618,FROZEN,Chicken - Base,48.34
+619,Kitchen,Pepper - Jalapeno,20.18
+620,FRUITS,Longos - Chicken Cordon Bleu,15.41
+621,Kitchen,Fenngreek Seed,37.89
+622,FRUITS,Buttons,26.43
+623,Home Goods,Huck White Towels,30.13
+624,Kitchen,Coffee - Egg Nog Capuccino,37.53
+625,Home Goods,Onions - Spanish,11.88
+626,FROZEN,Peach - Fresh,4.79
+627,Home Goods,Appetizer - Southwestern,24.66
+628,Kitchen,Water Chestnut - Canned,28.28
+629,FRUITS,Ham - Cooked Italian,9.60
+630,Home Goods,"Wine - Red, Cooking",44.71
+631,FROZEN,Potatoes - Fingerling 4 Oz,11.13
+632,Kitchen,Eel Fresh,21.05
+633,FRUITS,Bread - Italian Sesame Poly,10.57
+634,FROZEN,Pork - Side Ribs,12.46
+635,Kitchen,Chickensplit Half,36.89
+636,FRUITS,Lettuce - Escarole,21.34
+637,Kitchen,Macaroons - Two Bite Choc,4.27
+638,FRUITS,Cardamon Seed / Pod,46.40
+639,Kitchen,"Jam - Strawberry, 20 Ml Jar",7.11
+640,Home Goods,Glucose,7.24
+641,Home Goods,Food Colouring - Green,23.74
+642,Kitchen,"Seedlings - Mix, Organic",11.13
+643,Home Goods,"Pasta - Elbows, Macaroni, Dry",42.42
+644,FRUITS,Beef - Prime Rib Aaa,19.55
+645,FRUITS,Wine - Riesling Alsace Ac 2001,28.46
+646,OFFICE SUPPLIES,Beans - Yellow,12.50
+647,FROZEN,Sun - Dried Tomatoes,17.73
+648,OFFICE SUPPLIES,Beer - Labatt Blue,2.03
+649,FRUITS,"Beans - Black Bean, Preserved",14.80
+650,OFFICE SUPPLIES,"Jam - Marmalade, Orange",12.44
+651,Kitchen,"Cheese - Brie, Cups 125g",21.54
+652,FROZEN,Shrimp - Black Tiger 16/20,5.60
+653,FRUITS,Rabbit - Frozen,37.49
+654,Home Goods,Muffin Mix - Blueberry,31.48
+655,FROZEN,"Iced Tea - Lemon, 340ml",38.24
+656,OFFICE SUPPLIES,Wine - Lou Black Shiraz,14.71
+657,FRUITS,Spinach - Baby,2.01
+658,Home Goods,"Lamb - Leg, Bone In",29.29
+659,FROZEN,Pomello,38.07
+660,Kitchen,Tea - Mint,27.53
+661,FROZEN,"Mushroom - Trumpet, Dry",40.87
+662,Kitchen,Coffee - Dark Roast,36.50
+663,FRUITS,Ocean Spray - Kiwi Strawberry,49.92
+664,Kitchen,Chef Hat 20cm,16.83
+665,Kitchen,Scallops 60/80 Iqf,8.14
+666,FROZEN,"Salmon - Whole, 4 - 6 Pounds",20.20
+667,Kitchen,Sprouts - Alfalfa,3.10
+668,Home Goods,Truffle Cups - Red,29.73
+669,OFFICE SUPPLIES,Table Cloth 62x120 White,44.21
+670,OFFICE SUPPLIES,Wine - Chardonnay South,45.11
+671,FRUITS,Potatoes - Mini Red,36.66
+672,OFFICE SUPPLIES,Truffle Cups - Red,48.91
+673,FRUITS,"Doilies - 7, Paper",7.92
+674,Home Goods,Beef - Kobe Striploin,8.54
+675,FROZEN,Mustard - Dijon,8.41
+676,Kitchen,Tomatoes - Heirloom,49.51
+677,FROZEN,"Crab - Claws, 26 - 30",30.54
+678,OFFICE SUPPLIES,Lumpfish Black,39.04
+679,FROZEN,Sea Bass - Whole,30.58
+680,OFFICE SUPPLIES,Croissants Thaw And Serve,27.97
+681,FRUITS,Sea Bass - Whole,40.92
+682,FRUITS,Aspic - Amber,26.93
+683,Kitchen,Piping - Bags Quizna,46.32
+684,FRUITS,Icecream - Dstk Cml And Fdg,11.41
+685,OFFICE SUPPLIES,Ice Cream - Turtles Stick Bar,23.43
+686,OFFICE SUPPLIES,Pancetta,26.38
+687,Kitchen,Tequila - Sauza Silver,16.91
+688,FROZEN,Sage Derby,2.83
+689,FRUITS,Chocolate - Chips Compound,11.85
+690,Kitchen,Tofu - Firm,0.64
+691,Home Goods,Spring Roll Wrappers,35.07
+692,OFFICE SUPPLIES,Sherry - Dry,32.11
+693,OFFICE SUPPLIES,Wine - Hardys Bankside Shiraz,15.68
+694,FRUITS,"Fish - Base, Bouillion",20.21
+695,Kitchen,Danishes - Mini Cheese,29.97
+696,FROZEN,"Mushroom - Chantrelle, Fresh",10.58
+697,OFFICE SUPPLIES,Easy Off Oven Cleaner,12.79
+698,FROZEN,Pork Salted Bellies,38.00
+699,FROZEN,Triple Sec - Mcguinness,12.42
+700,Kitchen,Coffee - 10oz Cup 92961,41.51
+701,OFFICE SUPPLIES,"Pasta - Shells, Medium, Dry",0.19
+702,OFFICE SUPPLIES,Whmis - Spray Bottle Trigger,30.26
+703,OFFICE SUPPLIES,Cookie Dough - Chocolate Chip,26.39
+704,FRUITS,Mikes Hard Lemonade,0.41
+705,Kitchen,Bread - Granary Small Pull,27.74
+706,OFFICE SUPPLIES,Tomatoes Tear Drop Yellow,42.66
+707,FRUITS,Dried Apple,17.29
+708,FRUITS,Mushroom - Crimini,40.81
+709,FROZEN,"Wine - Red, Wolf Blass, Yellow",19.96
+710,FROZEN,"Nut - Hazelnut, Whole",42.75
+711,OFFICE SUPPLIES,Taro Root,19.66
+712,OFFICE SUPPLIES,Pineapple - Regular,10.62
+713,Kitchen,Numi - Assorted Teas,15.42
+714,Kitchen,Bacardi Breezer - Tropical,19.70
+715,OFFICE SUPPLIES,Wine - Barbera Alba Doc 2001,35.75
+716,Home Goods,Flour Pastry Super Fine,48.67
+717,FROZEN,Cheese - St. Andre,32.35
+718,FROZEN,Lettuce - Sea / Sea Asparagus,3.46
+719,OFFICE SUPPLIES,Cake - Bande Of Fruit,41.86
+720,FRUITS,Anchovy In Oil,7.25
+721,OFFICE SUPPLIES,Coffee Caramel Biscotti,45.67
+722,FRUITS,Otomegusa Dashi Konbu,40.78
+723,Home Goods,"Chicken - Leg, Boneless",41.44
+724,FROZEN,Bread - White Mini Epi,35.04
+725,Home Goods,Sandwich Wrap,10.41
+726,FRUITS,Chocolate - Compound Coating,29.83
+727,OFFICE SUPPLIES,Artichokes - Jerusalem,3.43
+728,Kitchen,Vinegar - Sherry,16.95
+729,Home Goods,Puree - Raspberry,14.76
+730,OFFICE SUPPLIES,Trueblue - Blueberry Cranberry,17.41
+731,Kitchen,"Mushrooms - Black, Dried",38.24
+732,FRUITS,Lid - 16 Oz And 32 Oz,37.55
+733,Home Goods,Coffee Cup 16oz Foam,29.25
+734,OFFICE SUPPLIES,Quail - Jumbo Boneless,19.78
+735,FRUITS,Chutney Sauce,35.47
+736,Home Goods,Lime Cordial - Roses,8.85
+737,Kitchen,Bay Leaf Ground,48.82
+738,Kitchen,Coffee Swiss Choc Almond,35.15
+739,Home Goods,Sea Bass - Fillets,44.70
+740,Home Goods,Chinese Foods - Chicken,33.29
+741,FROZEN,Carbonated Water - Strawberry,0.87
+742,FRUITS,"Salmon - Atlantic, No Skin",25.88
+743,Kitchen,Pork - Backs - Boneless,9.14
+744,Home Goods,Dry Ice,16.78
+745,Kitchen,Wine - Riesling Alsace Ac 2001,25.83
+746,FRUITS,Peas Snow,18.09
+747,FROZEN,Lid Tray - 16in Dome,6.08
+748,FROZEN,Vinegar - Champagne,17.89
+749,FRUITS,Instant Coffee,33.48
+750,Kitchen,"Soda Water - Club Soda, 355 Ml",29.31
+751,FROZEN,"Cheese - Cheddar, Medium",7.83
+752,Kitchen,Pork - Smoked Back Bacon,30.48
+753,FROZEN,"Ecolab - Orange Frc, Cleaner",14.57
+754,Home Goods,Tomatoes - Roma,33.80
+755,OFFICE SUPPLIES,V8 Splash Strawberry Banana,22.87
+756,FROZEN,"Juice - V8, Tomato",14.39
+757,FRUITS,Pepper - Chilli Seeds Mild,15.96
+758,FRUITS,"Chocolate - Semi Sweet, Calets",21.40
+759,Home Goods,Puff Pastry - Sheets,10.36
+760,OFFICE SUPPLIES,Kale - Red,39.74
+761,Home Goods,"Thyme - Lemon, Fresh",21.80
+762,OFFICE SUPPLIES,Coffee - Frthy Coffee Crisp,10.96
+763,Kitchen,Miso - Soy Bean Paste,19.39
+764,OFFICE SUPPLIES,Oneshot Automatic Soap System,35.30
+765,Kitchen,"Soup - Canadian Pea, Dry Mix",21.41
+766,FRUITS,Gatorade - Orange,33.97
+767,FROZEN,Island Oasis - Magarita Mix,28.22
+768,FRUITS,Turnip - White,42.68
+769,Kitchen,Juice - Ocean Spray Kiwi,43.94
+770,Kitchen,Beer - Mill St Organic,12.37
+771,Kitchen,"Soup - Beef Conomme, Dry",37.37
+772,FRUITS,Beef - Tenderloin,35.31
+773,FROZEN,Cranberries - Dry,29.95
+774,OFFICE SUPPLIES,Sprouts - Pea,44.82
+775,OFFICE SUPPLIES,Anchovy In Oil,0.08
+776,OFFICE SUPPLIES,Turkey - Oven Roast Breast,44.75
+777,FRUITS,Bok Choy - Baby,0.11
+778,FRUITS,"Chocolate - Pistoles, Lactee, Milk",32.07
+779,Home Goods,Canada Dry,4.22
+780,Home Goods,Neckerchief Blck,31.34
+781,FRUITS,Cookie Double Choco,37.28
+782,Home Goods,"Lamb - Shoulder, Boneless",39.10
+783,Home Goods,Tart - Pecan Butter Squares,43.08
+784,FROZEN,Rabbit - Whole,15.89
+785,FROZEN,Island Oasis - Lemonade,40.35
+786,Home Goods,Beer - True North Strong Ale,30.37
+787,Kitchen,Tequila Rose Cream Liquor,1.83
+788,FROZEN,Mushroom Morel Fresh,8.86
+789,Home Goods,Beer - Paulaner Hefeweisse,1.88
+790,FROZEN,"Trout - Rainbow, Fresh",31.22
+791,FROZEN,Wiberg Super Cure,17.83
+792,OFFICE SUPPLIES,Beef - Inside Round,41.39
+793,Home Goods,Bread Base - Gold Formel,16.64
+794,OFFICE SUPPLIES,"Dill - Primerba, Paste",12.66
+795,FROZEN,Chinese Foods - Thick Noodles,22.81
+796,Kitchen,Sping Loaded Cup Dispenser,2.22
+797,Home Goods,Ice Cream - Chocolate,45.41
+798,Kitchen,Sole - Iqf,18.41
+799,Home Goods,Cheese - Cream Cheese,11.42
+800,OFFICE SUPPLIES,Calypso - Black Cherry Lemonade,25.11
+801,FRUITS,Rosemary - Fresh,2.36
+802,FROZEN,Capers - Pickled,26.74
+803,Home Goods,Soup - Campbells Chili Veg,45.47
+804,Kitchen,Lamb Shoulder Boneless Nz,40.02
+805,Kitchen,"Flour - Buckwheat, Dark",41.09
+806,OFFICE SUPPLIES,Corn Kernels - Frozen,42.65
+807,OFFICE SUPPLIES,Wheat - Soft Kernal Of Wheat,17.95
+808,Kitchen,Cheese - Comtomme,28.49
+809,FROZEN,Chicken - Wieners,0.67
+810,OFFICE SUPPLIES,"Soup - Campbells, Chix Gumbo",14.44
+811,FRUITS,Sausage - Chorizo,49.74
+812,Kitchen,Bols Melon Liqueur,31.19
+813,OFFICE SUPPLIES,Spaghetti Squash,42.99
+814,Kitchen,Pastry - Banana Tea Loaf,9.79
+815,Home Goods,Coffee - Egg Nog Capuccino,43.70
+816,Kitchen,Chinese Foods - Cantonese,49.17
+817,OFFICE SUPPLIES,Container - Clear 32 Oz,7.88
+818,Home Goods,Juice - Prune,16.94
+819,FROZEN,Lychee,37.75
+820,Kitchen,"Bar Mix - Pina Colada, 355 Ml",3.45
+821,FROZEN,"Club Soda - Schweppes, 355 Ml",47.99
+822,OFFICE SUPPLIES,Salmon - Sockeye Raw,33.29
+823,OFFICE SUPPLIES,Rice - Aborio,44.19
+824,Home Goods,Tea - Herbal I Love Lemon,16.60
+825,Kitchen,Beer - Camerons Cream Ale,19.61
+826,FRUITS,"Sauce - Black Current, Dry Mix",38.59
+827,Home Goods,Fish - Bones,1.90
+828,FRUITS,"Nut - Pecan, Pieces",36.11
+829,FROZEN,Wine - Chateau Timberlay,4.89
+830,OFFICE SUPPLIES,Steel Wool S.o.s,12.49
+831,FROZEN,Crackers - Water,26.97
+832,Home Goods,Soho Lychee Liqueur,46.67
+833,Home Goods,Taro Root,6.67
+834,Home Goods,Compound - Strawberry,24.92
+835,OFFICE SUPPLIES,Wine - Ice Wine,27.90
+836,OFFICE SUPPLIES,Cheese - Shred Cheddar / Mozza,7.57
+837,Kitchen,Wine - Coteaux Du Tricastin Ac,32.99
+838,FRUITS,Tarts Assorted,1.32
+839,OFFICE SUPPLIES,Blouse / Shirt / Sweater,8.37
+840,Kitchen,"Nut - Pistachio, Shelled",31.93
+841,Kitchen,Vector Energy Bar,42.78
+842,Home Goods,Cream - 10%,27.55
+843,FRUITS,Cookies - Assorted,21.17
+844,FRUITS,Cookie Dough - Double,47.87
+845,Home Goods,"Soup - Knorr, Chicken Noodle",31.26
+846,Kitchen,Longos - Greek Salad,20.31
+847,Home Goods,Burger Veggie,29.22
+848,Kitchen,"Dill - Primerba, Paste",9.86
+849,FRUITS,Icecream - Dstk Strw Chseck,38.76
+850,OFFICE SUPPLIES,"Coke - Classic, 355 Ml",3.60
+851,FRUITS,Curry Paste - Madras,26.09
+852,Kitchen,Sauce - Oyster,2.69
+853,OFFICE SUPPLIES,Beef Ground Medium,31.84
+854,Home Goods,Veal Inside - Provimi,18.93
+855,Home Goods,"Soup - Clam Chowder, Dry Mix",10.02
+856,Home Goods,Lobster - Canned Premium,23.86
+857,Home Goods,Table Cloth - 53x69 Colour,29.39
+858,OFFICE SUPPLIES,Cheese - St. Paulin,28.99
+859,Kitchen,"Pork - Ham, Virginia",39.37
+860,FRUITS,Pepper - Gypsy Pepper,28.60
+861,FROZEN,Beets,4.01
+862,OFFICE SUPPLIES,"Sprite, Diet - 355ml",28.43
+863,Home Goods,Corn - On The Cob,6.47
+864,FRUITS,V8 - Berry Blend,49.08
+865,OFFICE SUPPLIES,Cardamon Seed / Pod,45.07
+866,OFFICE SUPPLIES,Saskatoon Berries - Frozen,35.34
+867,Home Goods,Plaintain,37.79
+868,FROZEN,Crackers - Soda / Saltins,5.81
+869,FRUITS,Pastry - Apple Muffins - Mini,39.01
+870,Home Goods,Soup - Cream Of Potato / Leek,22.58
+871,FRUITS,Plate Foam Laminated 9in Blk,23.54
+872,FRUITS,Trout Rainbow Whole,11.17
+873,FROZEN,"Mushroom - Shitake, Dry",7.89
+874,FROZEN,"Ecolab - Orange Frc, Cleaner",47.14
+875,Home Goods,Pie Shell - 5,40.66
+876,FROZEN,Iced Tea Concentrate,21.05
+877,Kitchen,Mint - Fresh,5.51
+878,FROZEN,Raisin - Dark,25.33
+879,FRUITS,Wine - Lou Black Shiraz,29.10
+880,Home Goods,Lotus Root,32.83
+881,FRUITS,Island Oasis - Sweet And Sour Mix,5.84
+882,FRUITS,"Pasta - Lasagne, Fresh",39.97
+883,OFFICE SUPPLIES,Longos - Cheese Tortellini,21.30
+884,Home Goods,Tuna - Bluefin,17.47
+885,Home Goods,Foie Gras,17.22
+886,FRUITS,Oven Mitt - 13 Inch,45.24
+887,Home Goods,Rosemary - Dry,16.13
+888,Home Goods,Compound - Pear,37.73
+889,FRUITS,Tuna - Fresh,20.27
+890,FRUITS,Muffins - Assorted,39.06
+891,OFFICE SUPPLIES,"Wine - Red, Concha Y Toro",4.94
+892,Home Goods,Melon - Cantaloupe,1.30
+893,FRUITS,Worcestershire Sauce,47.58
+894,Kitchen,Bar - Granola Trail Mix Fruit Nut,27.55
+895,Kitchen,Beer - Labatt Blue,41.72
+896,OFFICE SUPPLIES,Nantucket Cranberry Juice,33.95
+897,FROZEN,Mace Ground,42.89
+898,OFFICE SUPPLIES,Pepper - Jalapeno,26.04
+899,FRUITS,Paper Cocktail Umberlla 80 - 180,41.14
+900,Kitchen,"Peas - Pigeon, Dry",44.58
+901,OFFICE SUPPLIES,Truffle Cups - Red,13.76
+902,Kitchen,"Mushroom - Enoki, Fresh",24.72
+903,FRUITS,Wine - Chianti Classico Riserva,10.73
+904,FROZEN,Goulash Seasoning,19.45
+905,OFFICE SUPPLIES,"Schnappes - Peach, Walkers",29.14
+906,OFFICE SUPPLIES,Wine - Two Oceans Cabernet,41.94
+907,FROZEN,Ecolab - Solid Fusion,48.57
+908,OFFICE SUPPLIES,Orange - Blood,22.14
+909,Kitchen,"Salmon - Smoked, Sliced",12.41
+910,FRUITS,"Syrup - Golden, Lyles",23.34
+911,OFFICE SUPPLIES,Bread - Italian Sesame Poly,33.63
+912,FROZEN,Brandy Apricot,28.34
+913,OFFICE SUPPLIES,Scallops 60/80 Iqf,25.76
+914,Kitchen,Pasta - Fusili Tri - Coloured,9.92
+915,FROZEN,Daikon Radish,8.15
+916,FROZEN,Chickensplit Half,46.44
+917,FRUITS,Chocolate - Feathers,19.65
+918,OFFICE SUPPLIES,Beer - Maudite,36.60
+919,OFFICE SUPPLIES,Wine - Remy Pannier Rose,40.75
+920,OFFICE SUPPLIES,Chicken - Bones,36.52
+921,FRUITS,"Ham - Smoked, Bone - In",3.62
+922,Kitchen,Beef Striploin Aaa,35.88
+923,FROZEN,Herb Du Provence - Primerba,40.26
+924,OFFICE SUPPLIES,Paste - Black Olive,4.58
+925,OFFICE SUPPLIES,Chocolate - Feathers,7.60
+926,Kitchen,Spice - Chili Powder Mexican,30.30
+927,OFFICE SUPPLIES,"Ice - Clear, 300 Lb For Carving",6.03
+928,FROZEN,Napkin - Beverage 1 Ply,31.75
+929,Home Goods,Muffin - Mix - Strawberry Rhubarb,17.78
+930,OFFICE SUPPLIES,Extract - Almond,10.99
+931,Home Goods,Cookie Choc,40.66
+932,OFFICE SUPPLIES,Squid Ink,18.03
+933,FRUITS,Mikes Hard Lemonade,6.38
+934,FRUITS,Salmon Steak - Cohoe 8 Oz,41.25
+935,Home Goods,Lettuce - Sea / Sea Asparagus,4.55
+936,FROZEN,Carbonated Water - Strawberry,39.76
+937,Kitchen,Wine - Fontanafredda Barolo,8.79
+938,Kitchen,"Trout - Hot Smkd, Dbl Fillet",37.48
+939,OFFICE SUPPLIES,Salmon - Sockeye Raw,28.44
+940,FROZEN,"Pork - Ham, Virginia",39.00
+941,Kitchen,Bread - 10 Grain,7.21
+942,Kitchen,Filter - Coffee,21.30
+943,Home Goods,Wine - Zonnebloem Pinotage,2.50
+944,Kitchen,Cheese - St. Paulin,19.07
+945,Kitchen,Shrimp - 31/40,32.63
+946,FROZEN,Wine - Chablis 2003 Champs,28.00
+947,OFFICE SUPPLIES,Pepper - Jalapeno,19.25
+948,Home Goods,Beef - Rib Eye Aaa,2.68
+949,FROZEN,Tomatoes - Heirloom,1.80
+950,FROZEN,Lamb Rack Frenched Australian,14.09
+951,FRUITS,Tuna - Salad Premix,6.21
+952,FRUITS,Soup - Campbells Chili,20.15
+953,FROZEN,Cookie Dough - Peanut Butter,13.09
+954,FRUITS,Strawberries - California,5.00
+955,FROZEN,"Bread - White, Unsliced",8.16
+956,Kitchen,Leeks - Large,48.84
+957,Kitchen,Tart - Lemon,0.58
+958,Kitchen,"Pasta - Tortellini, Fresh",17.04
+959,FRUITS,"Vodka - Hot, Lnferno",43.38
+960,Home Goods,Wine - Fume Blanc Fetzer,15.32
+961,Home Goods,"Croissant, Raw - Mini",25.33
+962,Home Goods,Apples - Sliced / Wedge,24.60
+963,FRUITS,Cake - Sheet Strawberry,23.23
+964,FROZEN,Chickensplit Half,2.33
+965,Home Goods,Danishes - Mini Raspberry,21.85
+966,Home Goods,Calypso - Black Cherry Lemonade,25.54
+967,Home Goods,Cheese - St. Paulin,4.41
+968,FRUITS,Bread - Multigrain,19.92
+969,OFFICE SUPPLIES,External Supplier,25.01
+970,Home Goods,Wine - Muscadet Sur Lie,38.54
+971,Kitchen,Tomatoes - Orange,16.05
+972,FRUITS,Pork - Ground,30.84
+973,Kitchen,Lid Coffeecup 12oz D9542b,42.40
+974,OFFICE SUPPLIES,Tandoori Curry Paste,10.56
+975,FRUITS,Liners - Baking Cups,17.41
+976,FRUITS,Langers - Mango Nectar,22.01
+977,Home Goods,Sauce - Roasted Red Pepper,10.36
+978,OFFICE SUPPLIES,Contreau,33.52
+979,FRUITS,Persimmons,46.76
+980,FROZEN,Cheese - Swiss,11.64
+981,OFFICE SUPPLIES,Grapefruit - Pink,48.72
+982,OFFICE SUPPLIES,Wine - Baron De Rothschild,46.76
+983,OFFICE SUPPLIES,Pears - Bartlett,39.91
+984,FRUITS,Beer - Rickards Red,9.15
+985,Home Goods,Hagen Daza - Dk Choocolate,42.11
+986,Kitchen,Onions - Cippolini,32.65
+987,OFFICE SUPPLIES,Soy Protein,23.32
+988,Kitchen,"Pasta - Penne Primavera, Single",46.29
+989,FROZEN,"Lamb - Racks, Frenched",45.90
+990,Kitchen,Soup Campbells Mexicali Tortilla,16.45
+991,Kitchen,Pepper - Yellow Bell,36.96
+992,Home Goods,Lid - 16 Oz And 32 Oz,42.28
+993,FRUITS,"Mushrooms - Black, Dried",21.80
+994,FROZEN,"Soup - Campbells, Beef Barley",41.30
+995,FRUITS,Langers - Ruby Red Grapfruit,26.75
+996,FRUITS,Cookie Dough - Chunky,41.79
+997,Home Goods,Cheese - Sheep Milk,28.59
+998,FRUITS,Durian Fruit,26.52
+999,Kitchen,Tomatoes - Cherry,24.25
+1000,Kitchen,Soupcontfoam16oz 116con,49.03
